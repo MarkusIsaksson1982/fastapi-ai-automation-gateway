@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.db
+codex.log
+opencode.log
+.aws/
+.codex/
+.agents/
+*.log

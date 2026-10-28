@@ -1,5 +1,7 @@
 # fastapi-ai-automation-gateway
 
+[![CI](https://github.com/MarkusIsaksson1982/fastapi-ai-automation-gateway/actions/workflows/ci.yml/badge.svg)](https://github.com/MarkusIsaksson1982/fastapi-ai-automation-gateway/actions/workflows/ci.yml)
+
 Small FastAPI gateway for securely sending automation jobs to a local Ollama-compatible model.
 
 ## Setup
